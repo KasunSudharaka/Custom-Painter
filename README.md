@@ -42,9 +42,9 @@ The custom painter is defined in the `custom_painter.dart` file. It implements t
 
 5. **drawArc**: Demonstrates how to draw an arc on the canvas.
 
-6. **drawImage**: Demonstrates how to draw an image on the canvas.
+6. **drawOval**: Demonstrates how to draw an oval on the canvas.
 
-7. **drawText**: Demonstrates how to draw text on the canvas.
+7. **drawPoints**: Demonstrates how to draw points on the canvas.
 
 Each paint command is implemented as a separate function in the `custom_painter.dart` file. You can explore and modify these functions to understand how to use different paint commands.
 
@@ -55,3 +55,5 @@ The following resources provide more information about Flutter and the concepts 
 - [Flutter Documentation](https://flutter.dev/docs)
 - [CustomPaint class](https://api.flutter.dev/flutter/rendering/CustomPaint-class.html)
 - [CustomPainter class](https://api.flutter.dev/flutter/rendering/CustomPainter-class.html)
+
+Happy Coding :)
