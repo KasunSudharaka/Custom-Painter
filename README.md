@@ -46,6 +46,15 @@ The custom painter is defined in the `custom_painter.dart` file. It implements t
 
 7. **drawPoints**: Demonstrates how to draw points on the canvas.
 
+![1686436731981 (3)](https://github.com/KasunSudharaka/Custom-Painter/assets/38934215/b630a8e5-ff93-4add-95e1-3e4c2bdbcad2)
+![1686436731876 (1)](https://github.com/KasunSudharaka/Custom-Painter/assets/38934215/dc4d0612-9479-44f7-a377-1ee8fe4c7768)
+![1686436731927 (1)](https://github.com/KasunSudharaka/Custom-Painter/assets/38934215/1271d3a0-f2fe-47ac-8cda-b8180e19044f)
+![1686436731822 (1)](https://github.com/KasunSudharaka/Custom-Painter/assets/38934215/6b04d1fa-d47e-4b45-9f8b-bda57a6cd0dd)
+![1686436731772 (1)](https://github.com/KasunSudharaka/Custom-Painter/assets/38934215/8051d6c7-fb55-467d-8128-797ac0063411)
+![1686436731724 (1)](https://github.com/KasunSudharaka/Custom-Painter/assets/38934215/708455f4-0523-4958-b8d3-368ac7f3122c)
+![1686436731673 (1)](https://github.com/KasunSudharaka/Custom-Painter/assets/38934215/961c0ed6-052b-4e92-8b30-3cd850c36c9e)
+
+
 Each paint command is implemented as a separate function in the `custom_painter.dart` file. You can explore and modify these functions to understand how to use different paint commands.
 
 ### Resources
